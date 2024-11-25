@@ -1,0 +1,32 @@
+p{
+    margin-top: 0%;
+    color: rgb(33, 22, 46);
+    font-size: 16pt;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 400px;
+  border: 10px;
+}
+
+body
+
+{
+    text-align: center;   
+     background-color: rgb(138, 120, 134);
+     background-image: url("obrazek.jpg");
+}
+header
+{
+font-size: 32pt;
+color: rgb(104, 10, 107);
+
+
+
+
+}
+
